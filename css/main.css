@@ -97,6 +97,8 @@ form button {
 .scroll-to-top {
   display: flex;
   flex-direction: row-reverse;
+  text-transform: uppercase;
+  margin: 1rem;
 }
 
 a:hover {
